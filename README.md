@@ -1,7 +1,7 @@
 # 3D_SurvivalGame
-NOTE: **THIS IS PROJECT IS STILL HEAVILY IN DEVELOPMENT**
+**NOTE: THIS IS PROJECT IS STILL HEAVILY IN DEVELOPMENT**
 
-A 3D game I made using C++ and SFML. It took me 3 weeks to finish. Hope you guys enjoy :)
+A 3D game I am currently making using C++ and SFML.
 
 The 3D objects are rendered using raycasting
 
