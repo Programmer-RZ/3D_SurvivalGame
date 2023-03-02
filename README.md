@@ -1,5 +1,5 @@
 # 3D_SurvivalGame
-**NOTE: THIS IS PROJECT IS STILL HEAVILY IN DEVELOPMENT**
+# **NOTE: THIS IS PROJECT IS STILL HEAVILY IN DEVELOPMENT**
 
 A 3D game I am currently making using C++ and SFML.
 
